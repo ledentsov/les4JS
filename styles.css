@@ -1,0 +1,25 @@
+.b-taskForm {
+  height: auto;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 55px;
+  clear: both;
+  background-color: #a16262;
+  border-radius: 15px;
+  -webkit-box-shadow: 0 0 15px rgba(80, 79, 75, 0.685);
+          box-shadow: 0 0 15px rgba(80, 79, 75, 0.685);
+}
+
+.b-taskForm__title {
+  margin-top: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+.b-taskForm__text {
+  border-top: 15px;
+  font-family: cursive;
+  font-size: 18px;
+}
+/*# sourceMappingURL=styles.css.map */
